@@ -8,6 +8,10 @@
 
 <span style="display:block;text-align:center">🔭 I’m currently working on [fridge](https://github.com/dnjswnsthd/fridge)</span>
 
+<span style="display:block;text-align:center"> 😄 My Portfolio [Notion](https://www.notion.so/Wonjun-Song-9b9c43bde41d46ad972bd223be8227fa)</span>
+
+<span style="display:block;text-align:center">  📫 How to reach me: dnjswnsthd@naver.com</span>
+
 <br>
 
 <span style="display:block;text-align:center; color:white">**☀ Languages and Tools ☀** </span>
