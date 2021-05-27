@@ -1,8 +1,9 @@
+<div align="center">
+
 <span style="display:block;text-align:center">![slice](https://capsule-render.vercel.app/api?type=slice&color=ffd700&height=200&text=WonJun&fontAlign=70&rotate=13&fontAlignY=25&desc=Wonjun%20song's%20git%20profile.&descAlign=70.&descAlignY=44)</span><span style="display:block;text-align:center"><img src="https://img.shields.io/github/followers/dnjswnsthd?style=social">  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdnjswnsthd%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)</span>
 
 <center> 
 </center>
-
 <span style="display:block;text-align:center">🌱 I’m currently learning Spring Boot</span>
 
 <span style="display:block;text-align:center">🔭 I’m currently working on [fridge](https://github.com/dnjswnsthd/fridge)</span>
@@ -25,5 +26,5 @@
 
 <span style="display:block;text-align:center; color:white">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnjswnsthd&layout=compact&theme=gotham)</span>
 
--
+</div>
 
